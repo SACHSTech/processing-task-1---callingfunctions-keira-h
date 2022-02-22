@@ -24,23 +24,23 @@ public class Sketch extends PApplet {
    */
   public void draw() {
 
-	// Grass 
+	// Drawing grass 
     fill(163, 230, 115);
     rect(-5, 445, 510, 75);
   
-  // Pathway
+  // Drawing pathway
     fill(189, 189, 189);
     quad(400, 500, 385, 460, 295, 460, 280, 500);
   
-  // House base
+  // Drawing house base
     fill(242, 234, 203);
     rect(80, 220, 350, 240); 
 
-  // Window base
+  // Drawing window base
     fill(0, 0, 0);
     rect(125, 310, 75, 65); 
 
-  // Window Glass
+  // Drawing window glass
     fill(255, 255, 255);
     rect(130, 315, 30, 25);
 
@@ -53,19 +53,19 @@ public class Sketch extends PApplet {
     fill(255, 255, 255);
     rect(165, 345, 30, 25);  
   
-  // Door 
+  // Drawing door 
     fill(156, 98, 17);
     rect(295, 300, 90, 160);
 
-  // Door knob 
+  // Drawing door knob 
     fill(228, 235, 33);
     ellipse(310, 395, 20, 20);
 
-  // Chimney
+  // Drawing chimney
     fill(156, 98, 17);
     rect(105, 65, 75, 145);
   
-  // Roof
+  // Drawing roof
     fill(156, 98, 17);
     triangle(55, 235, 255, 60, 455, 235);
 
