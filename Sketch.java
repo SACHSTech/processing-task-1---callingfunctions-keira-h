@@ -24,7 +24,6 @@ public class Sketch extends PApplet {
    */
   public void draw() {
 
-  // (x, y, w, h)  
 	// Grass 
     fill(163, 230, 115);
     rect(-5, 445, 510, 75);
@@ -71,5 +70,5 @@ public class Sketch extends PApplet {
     triangle(55, 235, 255, 60, 455, 235);
 
   }
-  
+
 }
