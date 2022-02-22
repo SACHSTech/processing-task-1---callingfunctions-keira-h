@@ -69,10 +69,7 @@ public class Sketch extends PApplet {
   // Roof
     fill(156, 98, 17);
     triangle(55, 235, 255, 60, 455, 235);
-    
+
   }
   
-  // define other methods down here.
-  
-
 }
