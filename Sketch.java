@@ -1,7 +1,12 @@
 import processing.core.PApplet;
 
 public class Sketch extends PApplet {
-	
+
+  /**
+  * Description:
+  * Write a program that creates a drawing using processing. 
+  * @author: Hosey K
+  */
 	
   /**
    * Called once at the beginning of execution, put your size all in this method
